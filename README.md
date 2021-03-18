@@ -1,5 +1,5 @@
 ### Hi there 👋
-visit me at [bitSheriff.github.io](bitSheriff.github.io)
+visit me at [bitSheriff.github.io](https://bitsheriff.github.io/)
 <!--
 **bitSheriff/bitSheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
