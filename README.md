@@ -1,5 +1,9 @@
 ### Hi there 👋
 visit me at [bitSheriff.github.io](https://bitsheriff.github.io/)
+
+![bitSheriff's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitSheriff&count_private=true&show_icons=true&theme=synthwave)
+
+
 <!--
 **bitSheriff/bitSheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
