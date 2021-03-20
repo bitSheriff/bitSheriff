@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋 🤠
 visit my DevLog at [bitSheriff.github.io](https://bitsheriff.github.io/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bitSheriff)](https://github.com/ryo-ma/github-profile-trophy)
