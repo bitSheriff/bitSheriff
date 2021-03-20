@@ -3,7 +3,8 @@ visit me at [bitSheriff.github.io](https://bitsheriff.github.io/)
 
 ![bitSheriff's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitSheriff&count_private=true&show_icons=true&theme=synthwave)
 
-[![Commits Badge](https://badges.pufler.dev/commits/all/bitSheriff)](https://badges.pufler.dev)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15297236)](https://stackoverflow.com/users/15297236/bitsheriff)
+
 
 <!--
 **bitSheriff/bitSheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
