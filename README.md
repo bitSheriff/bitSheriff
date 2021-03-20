@@ -1,5 +1,5 @@
 ### Hi there 👋
-visit me at [bitSheriff.github.io](https://bitsheriff.github.io/)
+visit my DevLog at [bitSheriff.github.io](https://bitsheriff.github.io/)
 
 ![bitSheriff's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitSheriff&count_private=true&show_icons=true&theme=synthwave)
 
