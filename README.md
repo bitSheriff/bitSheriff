@@ -1,6 +1,9 @@
 ### Hi there 👋
 visit my DevLog at [bitSheriff.github.io](https://bitsheriff.github.io/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=bitSheriff)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![bitSheriff's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitSheriff&count_private=true&show_icons=true&theme=synthwave)
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15297236)](https://stackoverflow.com/users/15297236/bitsheriff)
