@@ -1,6 +1,12 @@
 ### Howdy 👋 🤠
 visit my DevLog at [bitSheriff.github.io](https://bitsheriff.github.io/)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/bitsheriff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bitsheriff" height="30" width="40" /></a>
+<a href="https://twitter.com/bitsheriff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bitsheriff" height="30" width="40" /></a>
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=bitSheriff)](https://github.com/ryo-ma/github-profile-trophy)
 
 
