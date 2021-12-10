@@ -1,6 +1,12 @@
 ### Howdy 👋 🤠
 visit my DevLog at [bitSheriff.github.io](https://bitsheriff.github.io/)
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bitsheriff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bitsheriff" height="30" width="40" /></a>
