@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [norseVPN - my first &#39;real&#39; project](https://dev.to/bitsheriff/norsevpn-my-first-real-project-kao)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
