@@ -14,6 +14,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [norseVPN - my first &#39;real&#39; project](https://dev.to/bitsheriff/norsevpn-my-first-real-project-kao)
+- [Creating my GitHub.io Page](https://bitsheriff.github.io/2020-03-16-creatingThisPage/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
