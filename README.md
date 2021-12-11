@@ -21,6 +21,9 @@ visit my DevLog at [bitSheriff.github.io](https://bitsheriff.github.io/)
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=15297236)](https://stackoverflow.com/users/15297236/bitsheriff)
 
 
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/bitsheriff"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bitsheriff" /></a></p><br><br>
+
 <!--
 **bitSheriff/bitSheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
