@@ -15,11 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A new Start](/blog/a-new-start)
 - [norseVPN - my first &#39;real&#39; project](https://dev.to/bitsheriff/norsevpn-my-first-real-project-kao)
-- [That which does not kill us makes us stronger](/blog/that-which-does-not-kill-us-makes-us-stronger)
-- [Do what you can, with what you have, where you are](/blog/do-what-you-can-with-what-you-have-where-you-are)
-- [If you cannot do great things, do small things in a great way](/blog/if-you-cannot-do-great-things-do-small-things-in-a-great-way)
-- [Strive not to be a success, but rather to be of value](/blog/strive-not-to-be-a-success-but-rather-to-be-of-value)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
