@@ -32,7 +32,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/bitsheriff"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="bitsheriff" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitsheriff&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="bitsheriff" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bitsheriff&show_icons=true&theme=synthwave&locale=en" alt="bitsheriff" /></p>
