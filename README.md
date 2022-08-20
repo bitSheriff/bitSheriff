@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **rust**
 
+- 📄 Visit my devLog [https://bitsheriff.github.io/](https://bitsheriff.github.io/)
+
 - 📝 I sometimes (😉) write articles on [https://dev.to/bitsheriff](https://dev.to/bitsheriff)
 
 - 📫 How to reach me **bitSheriff@protonmail.com**
-
-- 📄 Visit my devLog [https://bitsheriff.github.io/](https://bitsheriff.github.io/)
 
 - 🌲 [All my links in one place](https://linktr.ee/bitsheriff)
 
