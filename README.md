@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/bitsheriff" target="blank"><img src="https://img.shields.io/twitter/follow/bitsheriff?logo=twitter&style=for-the-badge" alt="bitsheriff" /></a> </p>
 
-- 🌱 I’m currently learning **python + Qt**
+- 🌱 I’m currently learning **python + Qt** and rust
 
 - 📝 I sometimes (😉) write articles on [https://dev.to/bitsheriff](https://dev.to/bitsheriff)
 
