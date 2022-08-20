@@ -13,7 +13,7 @@
 
 - 🌲 [All my links in one place](https://linktr.ee/bitsheriff)
 
-### Blogs posts
+### Posts
 <!-- BLOG-POST-LIST:START -->
 - [A new Start](/blog/a-new-start)
 - [norseVPN - my first &#39;real&#39; project](https://dev.to/bitsheriff/norsevpn-my-first-real-project-kao)
