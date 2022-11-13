@@ -15,6 +15,8 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting into neovim](https://bitsheriff.github.io/blog/getting-into-neovim)
+- [A new Start](https://bitsheriff.github.io/blog/a-new-start)
 - [norseVPN - my first &#39;real&#39; project](https://dev.to/bitsheriff/norsevpn-my-first-real-project-kao)
 <!-- BLOG-POST-LIST:END -->
 
