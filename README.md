@@ -16,9 +16,7 @@
 ### Posts
 <!-- BLOG-POST-LIST:START -->
 - [New Hugo Site](https://bitsheriff.github.io/posts/my_hugo_blog/2022-12-28_newhugosite/)
-- [dotfiles](https://bitsheriff.github.io/projects/dotfiles/)
 - [norseVPN - my first &#39;real&#39; project](https://dev.to/bitsheriff/norsevpn-my-first-real-project-kao)
-- [RSS Feeds](https://bitsheriff.github.io/rss/)
 <!-- BLOG-POST-LIST:END -->
 
 [![@bitsheriff's Holopin board](https://holopin.io/api/user/board?user=bitsheriff)](https://www.holopin.io/@bitsheriff)
