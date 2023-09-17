@@ -20,10 +20,6 @@
 - [norseVPN - my first &#39;real&#39; project](https://dev.to/bitsheriff/norsevpn-my-first-real-project-kao)
 <!-- BLOG-POST-LIST:END -->
 
-[![@bitsheriff's Holopin board](https://holopin.io/api/user/board?user=bitsheriff)](https://www.holopin.io/@bitsheriff)
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bitsheriff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bitsheriff" height="30" width="40" /></a>
