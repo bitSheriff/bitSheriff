@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **rust**
 
-- 📄 Visit my devLog [https://bitsheriff.github.io/](https://bitsheriff.github.io/)
+- 📄 Visit my devLog [https://bitsheriff.dev/](https://bitsheriff.dev/)
 
 - 📝 I sometimes write articles on [https://dev.to/bitsheriff](https://dev.to/bitsheriff)
 
