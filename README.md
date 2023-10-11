@@ -15,7 +15,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
-- [Module Tests with CUnit](https://bitsheriff.dev/posts/random_posts/2023-03-10_cunit_module_tests/)
+- [Module Tests with CUnit](https://bitsheriff.dev/posts/random_posts/2023-03-10_cunit-module-tests/)
 - [New Hugo Site](https://bitsheriff.dev/posts/my_hugo_blog/2022-12-28_newhugosite/)
 - [norseVPN - my first &#39;real&#39; project](https://dev.to/bitsheriff/norsevpn-my-first-real-project-kao)
 <!-- BLOG-POST-LIST:END -->
