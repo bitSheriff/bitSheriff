@@ -7,9 +7,7 @@
 
 - 📄 Visit my devLog [https://bitsheriff.dev/](https://bitsheriff.dev/)
 
-- 📝 I sometimes write articles on [https://dev.to/bitsheriff](https://dev.to/bitsheriff)
-
-- 📫 How to reach me? -->  **bitSheriff@protonmail.com**
+- 📫 How to reach me? -->  **bitSheriff@protonmail.com** or [Matrix](https://matrix.to/#/@bitsheriff:matrix.org)
 
 - 🌲 [All my links in one place](https://linktr.ee/bitsheriff)
 
