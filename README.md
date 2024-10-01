@@ -13,6 +13,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is Ricing?](https://bitsheriff.dev/posts/ricing/2024-10-01_what-is-ricing/)
 - [Hyprlands Submaps](https://bitsheriff.dev/posts/ricing/2024-08-24_hyprland-submaps/)
 - [Module Tests with CUnit](https://bitsheriff.dev/posts/2023-03-10_cunit-module-tests/)
 - [New Hugo Site](https://bitsheriff.dev/posts/my_hugo_blog/2022-12-28_newhugosite/)
