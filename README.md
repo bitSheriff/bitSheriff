@@ -7,7 +7,7 @@
 
 - 📄 Visit my devLog [https://bitsheriff.dev/](https://bitsheriff.dev/)
 
-- 📫 How to reach me? -->  **bitSheriff@protonmail.com** or [Matrix](https://matrix.to/#/@bitsheriff:matrix.org)
+- 📫 How to reach me? -->  **root@bitSheriff.dev** or [Matrix](https://matrix.to/#/@bitsheriff:matrix.org)
 
 - 🌲 [All my links in one place](https://linktr.ee/bitsheriff)
 
