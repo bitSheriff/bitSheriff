@@ -13,11 +13,11 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Build in LaTeX](https://bitsheriff.dev/posts/2024-10-03_continuous-build-in-latex/)
 - [What Is Ricing?](https://bitsheriff.dev/posts/ricing/2024-10-01_what-is-ricing/)
 - [Hyprlands Submaps](https://bitsheriff.dev/posts/ricing/2024-08-24_hyprland-submaps/)
 - [Module Tests with CUnit](https://bitsheriff.dev/posts/2023-03-10_cunit-module-tests/)
 - [New Hugo Site](https://bitsheriff.dev/posts/my_hugo_blog/2022-12-28_newhugosite/)
-- [norseVPN - my first &#39;real&#39; project](https://dev.to/bitsheriff/norsevpn-my-first-real-project-kao)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
