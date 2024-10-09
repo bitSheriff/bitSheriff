@@ -1,3 +1,4 @@
+<a rel="me" href="https://mastodon.social/@bitSheriff">Mastodon</a>
 <h1 align="center">Hi 👋, I'm bitSheriff</h1>
 <h3 align="center">A bughunter in the wild wild west 🤠</h3>
 
