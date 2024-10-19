@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm bitSheriff</h1>
 <h3 align="center">A bughunter in the wild wild west 🤠</h3>
 
-<p align="left"> <a href="https://twitter.com/bitsheriff" target="blank"><img src="https://img.shields.io/twitter/follow/bitsheriff?logo=twitter&style=for-the-badge" alt="bitsheriff" /></a> </p>
-
 - 🌱 I’m currently learning **rust**
 - 📄 Visit my devLog [https://bitsheriff.dev/](https://bitsheriff.dev/)
 - 📫 How to reach me? -->  **root@bitSheriff.dev** or [Matrix](https://matrix.to/#/@bitsheriff:matrix.org)
