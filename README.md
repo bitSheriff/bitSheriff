@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **rust**
 - 📄 Visit my devLog [https://bitsheriff.dev/](https://bitsheriff.dev/)
 - 📫 How to reach me? -->  **root@bitSheriff.dev** or [Matrix](https://matrix.to/#/@bitsheriff:matrix.org)
-- 🌲 [All my links in one place](https://bitsheriff.dev/about/me/)
+- 🌲 [All my links in one place](https://bitsheriff.dev/links)
 - 🐘 <a rel="me" href="https://mastodon.social/@bitSheriff">Mastodon</a>
 
 ### Posts
