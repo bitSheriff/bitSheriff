@@ -10,11 +10,7 @@
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
-- [2024 11 29_Unix Philosophy in Note Making](https://bitsheriff.dev/posts/note-making/2024-11-29_unix-philosophy-in-note-making/)
-- [What Is Note Making](https://bitsheriff.dev/posts/note-making/2024-10-22_what-is-note-making/)
-- [Continuous Build in LaTeX](https://bitsheriff.dev/posts/2024-10-03_continuous-build-in-latex/)
-- [What Is Ricing?](https://bitsheriff.dev/posts/ricing/2024-10-01_what-is-ricing/)
-- [Hyprlands Submaps](https://bitsheriff.dev/posts/ricing/2024-08-24_hyprland-submaps/)
+- [norseVPN - my first &#39;real&#39; project](https://dev.to/bitsheriff/norsevpn-my-first-real-project-kao)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
