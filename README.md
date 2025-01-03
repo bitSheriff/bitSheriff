@@ -6,7 +6,7 @@
 - 📄 Visit my devLog [https://bitsheriff.dev/](https://bitsheriff.dev/)
 - 📫 How to reach me? -->  **root@bitSheriff.dev** or [Matrix](https://matrix.to/#/@bitsheriff:matrix.org)
 - 🌲 [All my links in one place](https://bitsheriff.dev/links)
-- 🐘 <a rel="me" href="https://mastodon.social/@bitSheriff">Mastodon</a>
+- 🐘 <a rel="me" href="https://mastodon.social/@bitSheriff">Mastodon</a> / ⛅ <a rel="me" href="https://bsky.app/profile/bitsheriff.dev">Bluesky</a>
 
 ### Posts
 <!-- BLOG-POST-LIST:START -->
